@@ -14,7 +14,7 @@
 <img align="right" height="150" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -66,7 +66,8 @@
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo" />
   </a>
 </div>
-
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AnotherEz/AnotherEz/output/snake.svg" alt="Snake animation" />
