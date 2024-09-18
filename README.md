@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Edinson Fernandez.<br>👨‍💻 Full Stack Developer in Training | Engineering Student | Passionate About Tech & Learning</h2>
+<h1>Full Stack Developer in Training<h/1>
+<h2 align="left">Hi 👋! My name is Edinson Fernandez.<br>👨‍💻 Informatic Engineering Student | I love programming</h2>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+in+Training;Building+ideas+from+code+to+production;Exploring+front-end+%26+back-end+technologies;Learning+something+new+every+day;Future+Software+Engineer+🚀">
+  </a>
+</p>
 
 ###
 
