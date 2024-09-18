@@ -71,4 +71,4 @@ ername=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_co
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Another/AnotherEz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AnotherEz/AnotherEz/output/snake.svg" alt="Snake animation" />
