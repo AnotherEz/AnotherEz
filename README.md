@@ -1,30 +1,20 @@
 <h1>Full Stack Developer in Training</h1>
 <h2 align="left">Hi 👋! My name is Edinson Fernandez.<br>👨‍💻 Informatic Engineering Student | I love programming</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherEz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+in+Training;Building+ideas+from+code+to+production;Exploring+front-end+%26+back-end+technologies;Learning+something+new+every+day;Future+Software+Engineer+🚀">
   </a>
 </p>
-
-###
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherEz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <img align="right" height="150" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?us
-ername=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -58,8 +48,6 @@ ername=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@anotherez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=AnotherEz&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -78,8 +66,6 @@ ername=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_co
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo" />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
