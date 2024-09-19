@@ -22,7 +22,6 @@
   <!-- Tercera fila -->
   <div style="display: flex; align-items: center;">
     <img src="https://streak-stats.demolab.com?user=AnotherEz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-    <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" height="150" />
   </div>
 </div>
 
