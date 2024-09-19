@@ -1,9 +1,9 @@
 <h1>Full Stack Developer in Training</h1>
-<h2 align="left">Hi 👋! My name is Edinson Fernandez.<br>👨‍💻 Informatic Engineering Student | I love programming</h2>
+<h2 align="left">Hi 👋! My name is <p>Edinson Fernandez</p>.<br>👨‍💻 Informatic Engineering Student | I love programming</h2>
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+in+Training;Building+ideas+from+code+to+production;Exploring+front-end+%26+back-end+technologies;Learning+something+new+every+day;Future+Software+Engineer+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+in+Training;Building+ideas+from+code+to+production;Exploring+front-end+%26+back-end+technologies;Learning+something+new+every+day;Future+Informatic+Engineer+🚀">
   </a>
 </p>
 <div align="center">
@@ -18,6 +18,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AnotherEz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<h2>Skills & Currently Learning</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
