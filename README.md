@@ -14,10 +14,10 @@
   </div>
 
   <!-- Segunda fila -->
-  <div style="display: flex; align-items: center; transform: scale(1.4);">
+  <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherEz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
     <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" height="150" />
-</div>
+  </div>
 
   <!-- Tercera fila -->
   <div style="display: flex; align-items: center;">
