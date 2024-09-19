@@ -1,5 +1,5 @@
 <h1>Full Stack Developer in Training</h1>
-<h2 align="left">Hi 👋! My name is <p>Edinson Fernandez</p>.<br>👨‍💻 Informatic Engineering Student | I love programming</h2>
+<h2 align="left">Hi 👋! My name is Edinson Fernandez.<br>👨‍💻 Informatic Engineering Student | I love programming</h2>
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
