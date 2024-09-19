@@ -6,17 +6,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+in+Training;Building+ideas+from+code+to+production;Exploring+front-end+%26+back-end+technologies;Learning+something+new+every+day;Future+Informatic+Engineer+🚀">
   </a>
 </p>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherEz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<img align="right" height="150" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
-
-<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnotherEz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- Primera fila -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </div>
+
+  <!-- Segunda fila -->
+  <div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherEz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" height="150" />
+  </div>
+
+  <!-- Tercera fila -->
+  <div style="display: flex; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=AnotherEz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+    <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" height="150" />
+  </div>
 </div>
 
 <h2 align="center">Skills & Currently Learning</h2>
