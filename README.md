@@ -9,13 +9,14 @@
 
 <div align="center">
   <!-- Primera fila -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=AnotherEz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </div>
-
+ <!-- GitHub Shields Stats (ESTABLE 2025) -->
+  <img src="https://img.shields.io/github/followers/AnotherEz?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/AnotherEz?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/AnotherEz/AnotherEz?style=for-the-badge&color=green" />
+  <br><br>
   <!-- Segunda fila -->
   <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherEz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherEz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="" />
     <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" height="150" />
   </div>
 
